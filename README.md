@@ -3,12 +3,13 @@
 ### Introduction
 
 Code used in "Optimal Algorithms for Multiplayer Multi-Armed Bandits -  Po-An Wang, Alexandre Proutiere, Kaito Ariu, Yassir Jedra, Alessio Russo"
+
 Code Author: Alessio Russo
 
 
 ### License
 
-Our code is released under the MIT License (refer to the LICENSE file for details).
+Our code is released under the MIT License (refer to the [LICENSE](https://github.com/rssalessio/dpe/blob/master/LICENSE.md) file for details).
 
 
 ### Requirements
