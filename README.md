@@ -15,9 +15,9 @@ Our code is released under the MIT License (refer to the [LICENSE](https://githu
 ### Requirements
 
 - Python 3.7
-- numpy
+- numpy 1.16.1
 - matplotlib
-- pyximport
+- cython (for pyximport)
 
 
 ### Simulations
