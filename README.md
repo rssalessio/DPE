@@ -34,7 +34,7 @@ If you find this code useful in your research, please, consider citing it:
 >  title        = {DPE Algorithms},
 >  year         = 2020,
 >  doi          = {10.5281/zenodo.3783611},
->  url          = {https://doi.org/10.5281/zenodo.3783611}
+>  url          = { https://doi.org/10.5281/zenodo.3783611 }
 >}
 
 and/or cite the paper:
