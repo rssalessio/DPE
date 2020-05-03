@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Code used in "Optimal Algorithms for Multiplayer Multi-Armed Bandits -  Po-An Wang, Alexandre Proutiere, Kaito Ariu, Yassir Jedra, Alessio Russo"
+Code used in *"Optimal Algorithms for Multiplayer Multi-Armed Bandits" - Po-An Wang, Alexandre Proutiere, Kaito Ariu, Yassir Jedra, Alessio Russo, Proceedings AISTATS 2020*.
 
 Code Author: Alessio Russo
 
