@@ -28,8 +28,16 @@ If you decide to run a new simulations with different parameters, first delete a
 
 ### Cite
 
-If you find this code useful in your research, please, consider citing our paper:
+If you find this code useful in your research, please, consider citing it:
+>@misc{dpe2020,
+>  author       = {Alessio Russo},
+>  title        = {DPE Algorithms},
+>  year         = 2020,
+>  doi          = {10.5281/zenodo.3783611},
+>  url          = {https://doi.org/10.5281/zenodo.3783611}
+>}
 
+and/or cite the paper:
 >@article{optimalmmab2020,
 >         author  = {Po-An Wang, Alexandre Proutiere, Kaito Ariu, Yassir Jedra, Alessio Russo},
 >         title   = {Optimal Algorithms for Multiplayer Multi-Armed Bandits},
