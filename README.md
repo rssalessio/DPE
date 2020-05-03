@@ -39,3 +39,4 @@ If you find this code useful in your research, please, consider citing our paper
 
 
 [![DOI](https://zenodo.org/badge/242978531.svg)](https://zenodo.org/badge/latestdoi/242978531)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rssalessio/dpe/blob/master/LICENSE.md)
