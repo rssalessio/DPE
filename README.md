@@ -36,3 +36,6 @@ If you find this code useful in your research, please, consider citing our paper
 >         journal = {Proceedings AISTATS 2020},
 >         year    = {2020}
 >         }
+
+
+[![DOI](https://zenodo.org/badge/242978531.svg)](https://zenodo.org/badge/latestdoi/242978531)
