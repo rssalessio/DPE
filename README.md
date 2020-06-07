@@ -1,18 +1,16 @@
 # DPE
 
-### Introduction
+## Introduction
 
 Code used in *"Optimal Algorithms for Multiplayer Multi-Armed Bandits" - Po-An Wang, Alexandre Proutiere, Kaito Ariu, Yassir Jedra, Alessio Russo, Proceedings AISTATS 2020*.
 
 Code Author: Alessio Russo
 
-
-### License
+## License
 
 Our code is released under the MIT License (refer to the [LICENSE](https://github.com/rssalessio/dpe/blob/master/LICENSE.md) file for details).
 
-
-### Requirements
+## Requirements
 
 - Python 3.7
 - numpy 1.16.1
@@ -20,13 +18,13 @@ Our code is released under the MIT License (refer to the [LICENSE](https://githu
 - cython (for pyximport)
 
 
-### Simulations
+## Simulations
 
 To do the simulations, first create scores/ and figures/ repositories. Then run the notebook file.
 If you decide to run a new simulations with different parameters, first delete all the content in the
  \"scores\" folder, or copy it somewhere else if you need it.
 
-### Cite
+## Cite
 
 If you find this code useful in your research, please, consider citing it:
 >@misc{dpe2020,
