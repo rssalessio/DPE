@@ -34,12 +34,13 @@ If you find this code useful in your research, please, consider citing it:
 >}
 
 and/or cite the paper:
->@article{optimalmmab2020,
->         author  = {Po-An Wang, Alexandre Proutiere, Kaito Ariu, Yassir Jedra, Alessio Russo},
->         title   = {Optimal Algorithms for Multiplayer Multi-Armed Bandits},
->         journal = {Proceedings AISTATS 2020},
->         year    = {2020}
->         }
+>@inproceedings{wang2020optimal,
+>  title={Optimal algorithms for multiplayer multi-armed bandits},
+>  author={Wang, Po-An and Proutiere, Alexandre and Ariu, Kaito and Jedra, Yassir and Russo, Alessio},
+>  booktitle={International Conference on Artificial Intelligence and Statistics},
+>  pages={4120--4129},
+>  year={2020}
+>}
 
 
 [![DOI](https://zenodo.org/badge/242978531.svg)](https://zenodo.org/badge/latestdoi/242978531)
